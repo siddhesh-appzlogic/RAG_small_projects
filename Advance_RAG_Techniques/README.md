@@ -48,6 +48,7 @@ Run each script as needed:
 python dpr_technique.py
 python expansion_answer.py
 python expansion_queries.py
+python reranking.py
 ```
 5. **Requirements**
 Python 3.8+
